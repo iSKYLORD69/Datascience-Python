@@ -18,3 +18,22 @@ These programs cover essential concepts like NumPy, Pandas, Visualization, NLP, 
 - Random functions and string operations  
 
 ---
+
+### 🔹 Pandas
+
+- Creating Series and DataFrames  
+- Reading and writing CSV files  
+- Handling missing values  
+- GroupBy operations  
+- Concatenation and Join  
+- Data analysis (mean, max, min)  
+
+---
+
+### 🔹 Data Visualization
+
+- Line plots using Matplotlib  
+- Multiple line plots using Seaborn  
+- Trigonometric graphs (sin, cos, tan)  
+
+---
