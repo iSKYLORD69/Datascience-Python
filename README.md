@@ -7,6 +7,17 @@ These programs cover essential concepts like NumPy, Pandas, Visualization, NLP, 
 
 ## 🚀 Topics Covered
 
+### 🔹 Python Fundamentals
+
+- Data types  
+- Operators  
+- Control structures  
+- Functions and arguments  
+- OOP concepts  
+- File handling  
+
+---
+
 ### 🔹 NumPy
 
 - 1D and 2D array creation  
@@ -35,5 +46,15 @@ These programs cover essential concepts like NumPy, Pandas, Visualization, NLP, 
 - Line plots using Matplotlib  
 - Multiple line plots using Seaborn  
 - Trigonometric graphs (sin, cos, tan)  
+
+---
+
+### 🔹 Natural Language Processing (NLP)
+
+- Word Tokenization (NLTK)  
+- POS Tagging  
+- Stopwords removal  
+- Word Frequency Analysis  
+- Sentiment Analysis using TextBlob  
 
 ---
