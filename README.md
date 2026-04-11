@@ -63,3 +63,5 @@ These programs cover essential concepts like NumPy, Pandas, Visualization, NLP, 
 bash
 pip install numpy pandas matplotlib seaborn nltk textblob
 ---
+
+--- ## 📌 Purpose * Practice basic Data Science concepts * Useful for **college practicals and exams** * Beginner-friendly programs with simple logic ---
