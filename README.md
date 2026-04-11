@@ -58,3 +58,8 @@ These programs cover essential concepts like NumPy, Pandas, Visualization, NLP, 
 - Sentiment Analysis using TextBlob  
 
 ---
+
+## 🛠️ Requirements Install required libraries using:
+bash
+pip install numpy pandas matplotlib seaborn nltk textblob
+---
