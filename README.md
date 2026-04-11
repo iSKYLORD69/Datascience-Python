@@ -64,4 +64,19 @@ bash
 pip install numpy pandas matplotlib seaborn nltk textblob
 ---
 
---- ## 📌 Purpose * Practice basic Data Science concepts * Useful for **college practicals and exams** * Beginner-friendly programs with simple logic ---
+--- 
+
+### 📌 Purpose 
+* Practice basic Data Science concepts
+* * Useful for **college practicals and exams**
+* * Beginner-friendly programs with simple logic
+
+---
+
+## ⭐ Conclusion
+
+This file serves as a quick reference for **important Data Science programs in Python**.
+
+Perfect for revision and building a strong foundation.
+
+---
