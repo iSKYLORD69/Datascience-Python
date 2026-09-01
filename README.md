@@ -26,7 +26,7 @@ These programs cover essential concepts like NumPy, Pandas, Visualization, NLP, 
 - Mathematical operations (add, subtract, multiply, divide)  
 - Matrix operations (reshape, matrix product)  
 - Functions: `arange()`, `linspace()`  
-- Random functions and string operations  
+- Random functions and string operations       
 
 ---
 
